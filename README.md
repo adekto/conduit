@@ -5,4 +5,4 @@ B changes the grid
 
 try to conect all the conections to win
 
-personal best is 233
+personal best is 233 moves
